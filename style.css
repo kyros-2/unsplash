@@ -126,6 +126,7 @@ div.loaderContainer{
     display: grid;
     place-items: center;
     transition: .3s;
+    z-index: 99;
 }
 
 div.loaderContainer .loader{
